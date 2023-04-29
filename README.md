@@ -9,4 +9,4 @@ using two methods, Reverse_number and Prime_number
 
 ## Code 
 
-* [Code](code/Test.class)
+* [Code](code/Test.java)
